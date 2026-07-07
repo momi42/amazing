@@ -1,0 +1,8 @@
+# Default maze configuration
+WIDTH=15
+HEIGHT=15
+ENTRY=0,0
+EXIT=11,11
+OUTPUT_FILE=maze.txt
+PERFECT=false
+SEED=42
